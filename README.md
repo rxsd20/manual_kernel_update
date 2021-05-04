@@ -1,5 +1,5 @@
 
-Zephop VM
+Check kernel VM
 ==============
 
 ## Setup and run
@@ -16,7 +16,7 @@ Zephop VM
 * **Hibernate VM**: ```vagrant suspend```
 * **Restart VM**: ```vagrant reload```
 * **Destroy VM**: ```vagrant destroy```
-* **Remove from Vagrant Box List**: ```vagrant box remove zhvm```
+* **Remove from Vagrant Box List**: ```vagrant box remove rxsd20/centos-7-5```
 
 #### SSH Info
 * User: vagrant
