@@ -1,9 +1,9 @@
 # Describe VMs
 MACHINES = {
-  # VM name "kernel update"
+  # VM name "Centos kernel update"
   :"kernel-update" => {
               # VM box
-              :box_name => "centos/7",
+              :box_name => "rxsd20/centos-7-5",
               # VM CPU count
               :cpus => 2,
               # VM RAM size (Mb)
