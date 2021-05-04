@@ -11,6 +11,11 @@ Check kernel VM
 
 * **Step 4**: Go in VM command: ```vagrant ssh```
 
+* **Step 5**: Enter command: ```uname -r```
+
+* **Step 6**: Exit VM: ```exit```
+
+
 ## Vagrant Commands
 * **Start VM**: ```vagrant up```
 * **Hibernate VM**: ```vagrant suspend```
